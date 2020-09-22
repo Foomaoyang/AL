@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e66173a3-254d-449e-8e04-371a59b45b35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RjDSf0Oj7aDPAp5NGs8XyVpMY4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\Web\img" />
+      <recent name="D:\workspace\Web\img\portfolio" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e66173a3-254d-449e-8e04-371a59b45b35" name="Default Changelist" comment="" />
+      <created>1570171612921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570171612921</updated>
+      <workItem from="1570171685423" duration="8470000" />
+      <workItem from="1570260328865" duration="7851000" />
+      <workItem from="1570274054662" duration="6817000" />
+      <workItem from="1570280940209" duration="943000" />
+      <workItem from="1585628385098" duration="7291000" />
+      <workItem from="1585710550202" duration="695000" />
+      <workItem from="1585711314716" duration="357000" />
+      <workItem from="1585712120644" duration="475000" />
+      <workItem from="1585738459353" duration="126000" />
+      <workItem from="1585894014681" duration="3816000" />
+      <workItem from="1585897895436" duration="127000" />
+      <workItem from="1585898145066" duration="1344000" />
+      <workItem from="1585998385363" duration="118000" />
+      <workItem from="1586250203682" duration="12223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="213" y="37" key="#Notifications" timestamp="1586266017650">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="213" y="37" key="#Notifications/0.0.1440.920@0.0.1440.920" timestamp="1586266017650" />
+    <state x="389" y="150" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585710834487">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="389" y="150" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.920@0.0.1440.920" timestamp="1585710834487" />
+    <state x="451" y="159" key="FileChooserDialogImpl" timestamp="1585899220033">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="451" y="159" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1585899220033" />
+    <state x="106" y="19" key="SettingsEditor" timestamp="1586265997289">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="106" y="19" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1586265997289" />
+    <state x="481" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585633086977">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="481" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.920@0.0.1440.920" timestamp="1585633086977" />
+  </component>
+</project>
